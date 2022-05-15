@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @n-tonyparker
+- 👋 Hi, I’m @n-tonyparker. You can call me Tadashi
 - 👀 I’m interested in science computer and cybersecurity fields.
 - 🌱 I’m currently learning Java Programming, Computer Networking, and Digital Fundamentals.
 - 💞️ I’m looking to collaborate on any project, especially those related to the cybersecurity field.
